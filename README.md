@@ -1,5 +1,5 @@
 # hackerrank-problems
-hackerrank python and sql problems
+hackerrank python and SQL problems
 
 This repository has solved hackerrank Python and SQL problems in Jupyter Notebook (`.ipynb`) format. You'll find:
 
@@ -8,5 +8,5 @@ This repository has solved hackerrank Python and SQL problems in Jupyter Noteboo
 - **Aggregation**: Easy and Medium level problems
 - **Basic Joins**: Easy and Medium level problems
 
-In addition this repository contains a folder called **sql_notes** giving detailed explanations of how sql is used in **English** and **Turkish**
+In addition this repository contains a folder called **sql_notes** giving detailed explanations of how SQL works in **English** and **Turkish** 
 
